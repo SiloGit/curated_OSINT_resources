@@ -5,15 +5,7 @@ Last Updated: 05/01/2018
 # Table of Contents
   * [PERSONAL FAVORITES - BATTLE STATION —](#personal-favorites)
   	* [MAIN LIST](#main-list)
-  * [Chapter 2](#chapter-2)
-  * [Chapter 3](#chapter-3)
-  
 
-## Chapter 2 <a id="chapter-2"></a>
-Content for chapter one.
-
-## Chapter 3 <a id="chapter-3"></a>
-Content for chapter one.
 
 
 
