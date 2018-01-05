@@ -4,7 +4,7 @@ Last Updated: 05/01/2018
 
 # Table of Contents
   * [PERSONAL FAVORITES - BATTLE STATION —](#personal-favorites)
-  	* [MAIN LIST] (#main-list)
+  	* [MAIN LIST](#main-list)
   * [Chapter 2](#chapter-2)
   * [Chapter 3](#chapter-3)
   
