@@ -1,6 +1,13 @@
 # OSINT RESOURCE TRIAGE
 Created Tuesday 16 May 2017
-Last Updated: 05/10/2017
+Last Updated: 05/01/2018
+
+# Table of Contents
+  * [Chapter 1](#chapter-1)
+  * [Chapter 2](#chapter-2)
+  * [Chapter 3](#chapter-3)
+
+
 
 PERSONAL FAVORITES - BATTLE STATION —
 -------------------------------------
@@ -524,10 +531,7 @@ Additional Facebook graph queries can be found on:
 
 
 
-# Table of Contents
-  * [Chapter 1](#chapter-1)
-  * [Chapter 2](#chapter-2)
-  * [Chapter 3](#chapter-3)
+
   
   
   
