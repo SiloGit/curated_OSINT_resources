@@ -1,4 +1,3 @@
-
 # OSINT RESOURCE TRIAGE
 Created Tuesday 16 May 2017
 Last Updated: 05/10/2017
@@ -447,3 +446,88 @@ HUGE LIST - SORT AND PRUNE —
 ##### Other Tools
 
 ##### OSINT Videos
+
+CHEATSHEET ITEMS —
+------------------
+
+### — Facebook Graph Search
+Result:	Query
+Places:	/search/UserID/places
+Places visited:	/search/UserID/places-visited
+Places recently visited:	/search/UserID/recent-places-visited
+Places checked in:	/search/UserID/places-checked-in
+Places liked
+
+| RESULT                   | QUERY                                |
+|:-------------------------|:-------------------------------------|
+| Places:                  | /search/UserID/places                |
+| Places visited:          | /search/UserID/places-visited        |
+| Places recently visited: | /search/UserID/recent-places-visited |
+| Places checked in:       | /search/UserID/places-checked-in     |
+| Places liked:            | /search/UserID/places-liked          |
+
+
+
+
+Pages liked /search/UserID/pages-liked
+Photos
+Photos of
+Photos by
+Photos liked
+Photos commented
+/search/UserID/photos
+/search/UserID/photos-of
+/search/UserID/photos-by
+/search/UserID/photos-liked
+/search/UserID/photos-commented
+Apps used /search/UserID/apps
+Videos
+Videos of
+Videos by
+Videos liked
+Videos commented
+/search/UserID/videos
+/search/UserID/videos-of
+/search/UserID/videos-by
+/search/UserID/videos-liked
+/search/UserID/videos-commented
+Events
+Events joined in 2010
+/search/UserID/events
+/search/str/UserID/events-joined/2010/date/
+events/intersect/
+Posts
+Posts tagged
+Posts liked
+Posts by year
+/search/UserID/stories-by
+/search/UserID/stories-tagged
+/search/UserID/stories-liked
+/search/UserID/stories-by/2010/date/
+stories/intersect
+Friends
+Relatives
+Followers
+Groups
+Employers
+Co-workers
+/search/UserID/friends
+/search/UserID/relatives
+/search/UserID/followers
+/search/UserID/groups
+/search/UserID/employers
+/search/UserID/employees
+Page likers /likers
+Additional Facebook graph queries can be found on:
+ <https://inteltechniques.com/osint/menu.facebook.html>
+ <http://researchclinic.net/graph.html>
+
+
+
+
+
+
+
+
+
+
